@@ -1,4 +1,4 @@
-This file gives an overviewa bout the repositories in the MULTIPLY organization.
+This file gives an overview about the repositories in the MULTIPLY organization.
 
 The repositories may be categorized as such:
 
