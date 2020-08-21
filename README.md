@@ -1,4 +1,4 @@
-This file gives an overview about the repositories in the MULTIPLY organization.
+This file gives an overview about the repositories in the MULTIPLY organization. For more information on the MULTIPLY project, visit http://www.multiply-h2020.eu/ .
 
 The repositories may be categorized as such:
 
