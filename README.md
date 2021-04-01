@@ -24,7 +24,16 @@ The repositories may be categorized as such:
 **Information**:
 * readme
 
+**Special Repositories**: These repositories contain functionality that is not used by the MULTIPLY platform,
+but by other repositories outside of this organization. As such, they are further listed here so they may
+be maintained if needed.
+* gp_emulator
+* grabba_grabba_hey
+
 **Archived repositories**: Repositories whose functionality has been transferred to other repositories and thereby have become obsolete
 * multiply-orchestration
 * workshop
 * pre_processing
+* forward-operators
+* LMU_testcase
+* coarse_demo
